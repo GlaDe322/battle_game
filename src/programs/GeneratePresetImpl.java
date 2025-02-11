@@ -11,7 +11,6 @@ import java.util.*;
  *
  */
 public class GeneratePresetImpl implements GeneratePreset {
-
       /**
        * Метод для генерации армии с учетом максимального количества очков.
        */
